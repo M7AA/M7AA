@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @M7AA
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in beautiful website designs
+- 🌱 I’m currently learning Python, Javascript, ReactJS
 - 📫 How to reach me: (Not open)
